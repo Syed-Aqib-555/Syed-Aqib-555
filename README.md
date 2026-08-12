@@ -1,27 +1,18 @@
 # 💫 About Me:
-I’m currently working on **C#/.NET, Blazor, Flutter, and full-stack web & mobile applications**<br>I’m looking to collaborate on **open-source projects, web applications, mobile apps, and innovative software solutions**<br>I’m looking for help with **advanced .NET, Flutter, system design, and building scalable applications**<br>I’m currently learning **ASP.NET Core, Blazor, Flutter, Dart, REST APIs, SQL, and modern application development**<br>Ask me about **C#, C++, .NET, Blazor, Flutter, Dart, SQL, OOP, DSA, and Git/GitHub**<br>Fun fact: **I enjoy turning ideas into real-world web and mobile applications while constantly learning new technologies**<br>
+I’m currently working on **C#/.NET, Blazor, Flutter, and full-stack web & mobile applications**<br><br>I’m looking to collaborate on **open-source projects, web applications, mobile apps, and innovative software solutions**<br><br>I’m looking for help with **advanced .NET, Flutter, system design, and building scalable applications**<br><br>I’m currently learning **ASP.NET Core, Blazor, Flutter, Dart, REST APIs, SQL, and modern application development**<br><br>Ask me about **C#, C++, .NET, Blazor, Flutter, Dart, SQL, OOP, DSA, and Git/GitHub**<br><br>Fun fact: **I enjoy turning ideas into real-world web and mobile applications while constantly learning new technologies**<br>
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Syed Aqib Hassan) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedaqibh555@gmail.com) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedaqibh555@gmail.com) 
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Syed-Aqib-555&theme=transparent&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Syed-Aqib-555&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Syed-Aqib-555&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Syed-Aqib-555&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-readme-stats.shion.dev/api?username=Syed-Aqib-555&theme=transparent&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Syed-Aqib-555&theme=transparent&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Syed-Aqib-555&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Syed-Aqib-555&limit=5&theme=transparent&combine_all_yearly_contributions=true)
-
----
-[![](https://komarev.com/ghpvc/?username=Syed-Aqib-555&icon=2&color=0)](https://visitcount.itsvg.in)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
